@@ -23,7 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Van Gogh.unity
     guid: 71a75af9775f4eb43be8c17ab3cec3ea
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Van Gogh 2.unity
     guid: de4cfe10d5cbc9443b66a7fb2c2b46fb
   m_configObjects: {}
